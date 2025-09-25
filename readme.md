@@ -13,5 +13,5 @@ The project replicates the Amazon homepage layout with navigation, hero section,
 - **Footer Section** similar to Amazon’s layout.  
 
 1. Clone this repository:  
-   ```bash
+   `bash
    git clone https://github.com/FawadAjmal/Amazon-homepage-clone-html-Css-Responsive-.git
